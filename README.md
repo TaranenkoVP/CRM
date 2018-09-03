@@ -1,0 +1,2 @@
+# CRM
+(core+angular)
